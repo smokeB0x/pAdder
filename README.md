@@ -13,7 +13,7 @@ Add the list of possible passwords to the root file (here where this readme-file
 
 Name the file "passordliste.txt"
 
-Run the file "all-in-one.cmd" by double clicking it
+Run the file "run.cmd" by double clicking it
 
 You will now have a file named "passord-final.txt" (This might take some time, depending on how large the initial list is).
 
