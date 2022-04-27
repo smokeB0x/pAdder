@@ -1,16 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 08:49:22 2022
-
-@author: NESKI
-"""
-
 #script to take a list of alfanumeric words and add 
-#a capitalized version and a lower case version'
+#a capitalized version and a lower case version
 
 #!/usr/bin/env python
 
-file_passordliste = open('passordliste.txt', 'r')   #The file you want to read
+file_passordliste = open('passordliste.txt', 'r')           #The file you want to read
 
 for line in file_passordliste:                              #Reads every line of the list
     newline = line.strip()                                  #Remove newlines from each word
