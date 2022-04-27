@@ -6,6 +6,7 @@
  | .__//_/    \_\\__,_| \__,_| \___||_|   
  | |                                      
  |_|                                      
+                                   
 
 A group of scripts that pads possible passwords with numbers and symbols, and also makes the words upper- and lower-case.
 
