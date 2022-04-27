@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-#The script takes each word in passordliste.txt and adds the symbols in this script.  
-#The output is saved to a file named passord_temp1.txt
+#The script takes each word in passord_temp1.txt and adds the symbols in this script.  
+#The output is saved to a file named passord-final.txt
 import itertools
 
 #Add your digits to this list (leave the first one emty to also include one word without numbers)
