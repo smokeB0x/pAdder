@@ -15,10 +15,14 @@ Name the file "passordliste.txt"
 
 Run the file "all-in-one.cmd" by double clicking it
 
-You will now have a file named "passord-final.txt"
+You will now have a file named "passord-final.txt" (This might take some time, depending on how large the initial list is).
 
 To change the numbers to padd with, edit the py-script "merger3.py"
 
 To change the symbols to padd with, edit the py-script "symbols.py"
 
 Each of the 3 scripts can be modified and used on its own if needed
+
+Examples of before and after:
+Initial list: 75 words, final list: 77 000 words
+Initial list: 250 000 words, final list: 240 000 000 words
