@@ -1,7 +1,7 @@
+#!/usr/bin/env python
+
 #script to take a list of alfanumeric words and add 
 #a capitalized version and a lower case version
-
-#!/usr/bin/env python
 
 file_passordliste = open('passordliste.txt', 'r')           #The file you want to read
 
