@@ -1,15 +1,4 @@
-
-
-
-
-                     _      _             
-           /\       | |    | |            
-  _ __    /  \    __| |  __| |  ___  _ __ 
- | '_ \  / /\ \  / _` | / _` | / _ \| '__|
- | |_) |/ ____ \| (_| || (_| ||  __/| |   
- | .__//_/    \_\\__,_| \__,_| \___||_|   
- | |                                      
- |_|                                      
+# pAdder
 
 A group of scripts that pads possible passwords with numbers and symbols, and also makes the words upper- and lower-case.
 
