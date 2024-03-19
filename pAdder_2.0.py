@@ -7,7 +7,7 @@ def capitalize_password():
     Function to return two versions of each password. One capitalized and one uncapitalized
     """
     capitalized_passwords = []
-    with open('passordliste.txt', 'r', encoding='utf-8-sig') as file_passordliste:
+    with open('passwords.txt', 'r', encoding='utf-8-sig') as file_passordliste:
         for line in file_passordliste:
             newline = line.strip()
             capitalized = newline.capitalize()
