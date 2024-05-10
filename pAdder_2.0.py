@@ -19,7 +19,7 @@ def capitalize_password():
 
 def add_numbers(password):
     """
-    Function to return two versions of each password. One capitalized and one uncapitalized
+    Function to add the numbers in the list to each password
     """
     digits = '', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '00', '01', '02', '03', '04', '05', '06', '07', '08', '09', '123', '1234'
     passwords_with_numbers = []
@@ -30,7 +30,7 @@ def add_numbers(password):
 
 def add_symbols(password):
     """
-    Function to return two versions of each password. One capitalized and one uncapitalized
+    Function to add the symbols in the list to each password
     """
     symbol_list = '', '!', '#', '%', '&', '/', '*', '.', ',', '-', '?', '+', '@', '='
     passwords_with_symbols = []
